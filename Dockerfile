@@ -1,4 +1,4 @@
-FROM docker:stable
+FROM docker:29-cli
 
 LABEL 'name'='Docker Deployment Action'
 LABEL 'maintainer'='Al-waleed Shihadeh <wshihadeh.dev@gmail.com>'
